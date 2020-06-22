@@ -1,0 +1,28 @@
+1) GPS ():
+- Return Type: Constructor.
+-Parameters: -
+-Notes:-
+
+2) get_longitude ():
+-Return Type: double.
+-Parameters: Void.
+-Notes: Should be used after readig data through 'Read_data' command.
+3) get_latitude ():
+-Return Type: double.
+-Parameters: Void.
+-Notes: Should be used after readig data through 'Read_data' command.
+
+
+4) Serial_print_data():
+- Return Type: Void.
+-Parameters:void.
+-Notes: Should be used after readig data through 'Read_data' command.
+
+
+
+
+
+
+
+
+
